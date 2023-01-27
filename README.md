@@ -1,13 +1,6 @@
-# john_xina_discord_bot
+# John Xina Discord Bot
 
-Commands:
-!jx tell_me
-#displays semi-randomized prompt about magnificienty of China
-!jx play
-#connect to voice channel to play random audio-file with John Xina texts
-!jx china_bad
-#display nagative social points picture
-!jx china_good
-#display positive social points picture
-!jx wok
-#displays wok gif
+## Hosting
+Unfortunatly its not hosted yet so to use it you will need to get your own bot with token from Discord Developer Panel
+![alt text](https://i.postimg.cc/j2Ww4j0b/obraz.png)
+##
