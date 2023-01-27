@@ -28,6 +28,6 @@ John Xina will assign you social points.
  ```
  - play
  ```
- [![obraz.png](https://i.postimg.cc/RC6bF5Nr/obraz.png)](https://postimg.cc/6TKhjPrz)
+ ![obraz.png](https://i.postimg.cc/RC6bF5Nr/obraz.png)](https://postimg.cc/6TKhjPrz)
  ```
  John Xina will enter your voice channel and play random audio files from audio folder
