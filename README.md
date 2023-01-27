@@ -15,7 +15,7 @@ John Xina will tell you something flattering about China.
 
 - china_good/china_bad
 
-![Imgur](https://i.imgur.com/Q55pTMt)
+![img]https://i.imgur.com/Q55pTMt.png[/img]
 
 John Xina will assign you social points.
 
