@@ -9,25 +9,24 @@ Unfortunatly its not hosted yet so to use it you will need to get your own bot w
 ```
 - tell_me
 ```
-![alt text](https://i.postimg.cc/j2X8rv3c/obraz.png)
-![alt text](https://i.postimg.cc/Hnhp300Z/obraz.png)
+[Imgur](https://imgur.com/IPMoNzI)
 ```
 John Xina will tell you something flattering about China.
 ```
 - china_good/china_bad
 ```
-![alt text](https://imgur.com/Q55pTMt)
-
+[Imgur](https://imgur.com/Q55pTMt)
+```
 John Xina will assign you social points.
 ```
  - wok
  ```
- ![alt text](https://i.postimg.cc/ZR03qHqj/obraz.png)
+ [Imgur](https://imgur.com/3iks6am)
  ```
  John Xina will send a Wok gif
  ```
  - play
  ```
- ![obraz.png](https://i.postimg.cc/RC6bF5Nr/obraz.png)](https://postimg.cc/6TKhjPrz)
- 
+ [Imgur](https://imgur.com/VNC5wlv)
+ ```
  John Xina will enter your voice channel and play random audio files from audio folder
