@@ -9,7 +9,7 @@ Unfortunatly its not hosted yet so to use it you will need to get your own bot w
 
 - tell_me
 
-![Imgur](https://i.imgur.com/IPMoNzI)
+![Imgur](https://i.imgur.com/IPMoNzI.png)
 
 John Xina will tell you something flattering about China.
 
@@ -21,12 +21,12 @@ John Xina will assign you social points.
 
  - wok
 
- ![Imgur](https://i.imgur.com/3iks6am)
+ ![Imgur](https://i.imgur.com/3iks6am.png)
 
  John Xina will send a Wok gif
 
  - play
 
- ![Imgur](https://i.imgur.com/VNC5wlv)
+ ![Imgur](https://i.imgur.com/VNC5wlv.png)
 
  John Xina will enter your voice channel and play random audio files from audio folder
